@@ -3,4 +3,4 @@ def display_name(user):
 
 
 def touched_helper():
-    return 1
+    return 2
